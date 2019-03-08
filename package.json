@@ -60,7 +60,7 @@
     "@storybook/addon-centered": "^5.0.1",
     "@storybook/addon-console": "^1.0.0",
     "@storybook/addon-info": "^5.0.1",
-    "@storybook/addon-options": "^3.4.1",
+    "@storybook/addon-options": "^5.0.1",
     "@storybook/channels": "^5.0.1",
     "@storybook/react": "^5.0.1",
     "@storybook/storybook-deployer": "^2.3.0",
